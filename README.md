@@ -140,7 +140,7 @@ npx expo start --ios
 
 - **Repositório**: https://github.com/GuilhermeCalifoni-code/SP-CPAD-Motiva-Field
 - **Vídeo Demo**: *(https://www.youtube.com/watch?v=6ueYJ6vzVAQ)*
-- **Protótipo Figma Sprint 1**: https://canva.link/4zdkrv69yrsgorr
+- **Protótipo Figma**: https://canva.link/4zdkrv69yrsgorr
 
 ---
 
