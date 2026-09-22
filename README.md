@@ -2,7 +2,7 @@
 
 App mobile para monitoramento e gestão de vegetação em rodovias — CCR Motiva.
 
-**Sprint 2 · Cross-Platform Application Development · FIAP 2026**
+**Sprint 3 · Cross-Platform Application Development · FIAP 2026**
 Prof. Hercules Lima
 
 ---
@@ -139,9 +139,9 @@ npx expo start --ios
 ## 🔗 Links
 
 - **Repositório**: https://github.com/GuilhermeCalifoni-code/SP-CPAD-Motiva-Field
-- **Vídeo Demo**: *(inserir link YouTube após gravação)*
+- **Vídeo Demo**: *(https://www.youtube.com/watch?v=6ueYJ6vzVAQ)*
 - **Protótipo Figma Sprint 1**: https://canva.link/4zdkrv69yrsgorr
 
 ---
 
-> Motiva Field · Sprint 2 · FIAP 2026 · CCR Motiva
+> Motiva Field · Sprint 3 · FIAP 2026 · CCR Motiva
