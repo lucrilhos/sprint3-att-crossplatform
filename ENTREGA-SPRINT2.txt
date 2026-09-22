@@ -1,4 +1,4 @@
-MOTIVA FIELD — Sprint 2
+MOTIVA FIELD — Sprint 3
 Cross-Platform Application Development
 FIAP 2026 | Prof. Hercules Lima
 
@@ -14,4 +14,4 @@ REPOSITÓRIO GITHUB:
 https://github.com/GuilhermeCalifoni-code/SP-CPAD-Motiva-Field
 
 VÍDEO DEMONSTRAÇÃO (YouTube - não listado):
-[INSERIR LINK APÓS GRAVAÇÃO]
+[https://www.youtube.com/watch?v=6ueYJ6vzVAQ]
